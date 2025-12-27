@@ -1,3 +1,7 @@
 {
-"Name the greatest human":[["Richard",70],["Richard Michael",20],["Richard Michael Theis",5]]
+"Question 1":[["Answer 1",70],["Answer 2",20],["Answer 3",5]],
+"Question 2":[["Answer 1",45],["Answer 2",21],["Answer 3",11],["Answer 4",5]],
+"Question 3":[["Answer 1",23],["Answer 2",12],["Answer 3",10],["Answer 4",9],["Answer 5",8]],
+"Question 4":[["Answer 1",55],["Answer 2",33]],
+"Question 5":[["Answer 1",44],["Answer 2",34],["Answer 3",20]]
 }
